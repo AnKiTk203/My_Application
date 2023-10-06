@@ -16,3 +16,4 @@ git add filename -> to stage changes in a file
  
 git add . -> to stage all changes
 
+git commit -m "Message" -> to commit files
