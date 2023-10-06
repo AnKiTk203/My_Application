@@ -1,0 +1,18 @@
+git --version -> git version check
+
+git config -> to operate on config file
+
+git init -> makes empty repo in a folder which tracks the changes in the folder
+
+git status -> to check if anything change
+
+git config --global http.proxy http://172.16.199.20:8080 -> to add proxy
+
+git config --global --unset http.proxy -> to unset proxy
+
+git config --global --get http.proxy -> to see proxy
+
+git add filename -> to stage changes in a file
+ 
+git add . -> to stage all changes
+
