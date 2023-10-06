@@ -22,9 +22,14 @@ git checkout -> to move from one branch to another. It helps to move back to som
 
 ‎	(branch-name) -> to move to a branch
 	-b (branch-name) -> to create and move into a new branch
-				
+	git 			
 
 git branch branch-name -> to create a new branch
+
+git merge branch-name -> to merge current branch and named branch
+
+.gitignore -> add file names which you do not want git to track
+
 
 
 
