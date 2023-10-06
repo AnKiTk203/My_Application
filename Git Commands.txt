@@ -32,5 +32,3 @@ git branch branch-name -> to create a new branch
 
 
 
-
-
